@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ac3ac"],{"193a":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("Booklist",{attrs:{categoryQuery:"Grafikeditionen"}})],1)},o=[],c=t("29cf"),i={name:"grafik",components:{Booklist:c["a"]}},r=i,s=t("2877"),l=Object(s["a"])(r,a,o,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0ac3ac.66397c39.js.map

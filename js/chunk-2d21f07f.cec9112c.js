@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21f07f"],{d7a7:function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("Booklist",{attrs:{categoryQuery:"Hoerbuecher"}})],1)},r=[],c=t("29cf"),u={name:"hoerbuecher",components:{Booklist:c["a"]}},a=u,s=t("2877"),l=Object(s["a"])(a,o,r,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d21f07f.cec9112c.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d605b"],{"717b":function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("Booklist",{attrs:{categoryQuery:"Pressendrucke"}})],1)},s=[],o=t("29cf"),c={name:"Pressendrucke",data:function(){return{res:"not yet"}},components:{Booklist:o["a"]}},u=c,a=t("2877"),l=Object(a["a"])(u,r,s,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0d605b.c7e707be.js.map

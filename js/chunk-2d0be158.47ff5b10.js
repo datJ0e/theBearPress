@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0be158"],{"2f6d":function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("Booklist",{attrs:{categoryQuery:"Einblattdrucke"}})],1)},c=[],a=n("29cf"),l={name:"home",components:{Booklist:a["a"]}},r=l,s=n("2877"),u=Object(s["a"])(r,o,c,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0be158.47ff5b10.js.map
